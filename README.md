@@ -17,7 +17,8 @@ This repository contains my completed work for the **Tableau Trailhead Modules &
 Both these graphs I compared male to female bakers.
 
 **Public URL to my viz:**  
-[Assignment 6 url] (https://public.tableau.com/app/profile/anita.liu7514/viz/Assignment6_17640451598120/Sheet1#1)
+[Assignment 6 Tableau Visualization](https://public.tableau.com/app/profile/anita.liu7514/viz/Assignment6_17640451598120/Sheet1#1)
+
 
 ## Reflection (4–6 sentences)
 
